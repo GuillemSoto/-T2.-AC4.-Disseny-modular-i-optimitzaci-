@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\bin\Debug\net8.0\acfor_Guillem_Soto.exe
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\bin\Debug\net8.0\acfor_Guillem_Soto.deps.json
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\bin\Debug\net8.0\acfor_Guillem_Soto.runtimeconfig.json
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\bin\Debug\net8.0\acfor_Guillem_Soto.dll
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\bin\Debug\net8.0\acfor_Guillem_Soto.pdb
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.AssemblyInfo.cs
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.dll
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\refint\acfor_Guillem_Soto.dll
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.pdb
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\acfor_Guillem_Soto.genruntimeconfig.cache
+C:\Users\isard\source\repos\acfor_Guillem_Soto\acfor_Guillem_Soto\obj\Debug\net8.0\ref\acfor_Guillem_Soto.dll
