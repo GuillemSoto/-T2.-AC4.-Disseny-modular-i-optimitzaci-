@@ -1,4 +1,4 @@
-﻿namespace acfor_Guillem_Soto
+namespace acfor_Guillem_Soto
 {
     internal class Program
     {
@@ -39,11 +39,40 @@
                     flag = false;
                 }
             }
+            BubbleSort(ref storeNum);
             for (int i = 0; i < storeNum.Length; i++)
             {
                 finalString = finalString + storeNum[i] + " ";
             }
             Console.WriteLine(finalString);
+        }
+        public static void BubbleSort(ref int[] storeNum)
+        {
+            {
+                for (int i = 0; i < storeNum.Length - 1; i++)
+
+                {
+
+                    for (int j = i + 1; j < storeNum.Length; j++)
+
+                    {
+
+                        if (storeNum[i] > storeNum[j])
+
+                        {
+
+                            int aux = storeNum[i];
+
+                            storeNum[i] = storeNum[j];
+
+                            storeNum[j] = aux;
+
+                        }
+
+                    }
+
+                }
+            }
         }
     }
 }
